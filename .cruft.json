@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/PrefectHQ/prefect-collection-template",
+  "commit": "008e0473a06186c9608d26f6288810f46d4509e2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Christian Eik",
+      "email": "christian.eikx@gmail.com",
+      "github_organization": "ceik",
+      "collection_name": "prefect-ftp",
+      "collection_slug": "prefect_ftp",
+      "collection_short_description": "The `prefect-ftp` collection makes it easy to interact with (s)ftp servers.",
+      "_copy_without_render": [
+        ".github/workflows/*.yml"
+      ],
+      "_template": "https://github.com/PrefectHQ/prefect-collection-template"
+    }
+  },
+  "directory": null
+}
